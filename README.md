@@ -1,0 +1,1 @@
+A website about water sanitation and a company named "AquaNexas", When all files are downloaded, it will result in a website and it is specifically made for a competition so if anyone does see this, they can use it as inspiration but please do not copy my code without giving credit.
